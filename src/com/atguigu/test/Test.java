@@ -9,5 +9,7 @@ public class Test {
 		//ºó++ÏÈ¸³ÖµºóÔËËã
 		System.out.println(j);
 		System.out.println(i);
+		System.out.println("¹ş¹ş¹ş¹ş");
+		System.out.println("ºÇºÇ¹ş¹ş¹ş");
 	}
 }
