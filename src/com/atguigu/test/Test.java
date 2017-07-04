@@ -10,5 +10,7 @@ public class Test {
 		System.out.println(j);
 		System.out.println(i);
 		System.out.println("崙夛喝融");
+		System.out.println("込込込込");
+		System.out.println("最最込込込");
 	}
 }
