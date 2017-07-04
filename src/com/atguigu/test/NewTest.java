@@ -3,7 +3,7 @@ package com.atguigu.test;
 public class NewTest {
 
 	public static void main(String[] args) {
-		System.out.println("git·ÖÖ§Á·Ï°");
+		System.out.println("gitåˆ†æ”¯æµ‹è¯•");
 	}
 
 }
