@@ -9,5 +9,6 @@ public class Test {
 		//后++先赋值后运算
 		System.out.println(j);
 		System.out.println(i);
+		System.out.println("制造冲突");
 	}
 }
