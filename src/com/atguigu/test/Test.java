@@ -5,12 +5,10 @@ public class Test {
 	public static void main(String[] args) {
 		int i =1;
 		int j =++i;
-		//前++先赋自增在运算
-		//后++先赋值后运算
+		//
+		//
 		System.out.println(j);
 		System.out.println(i);
-		System.out.println("制造冲突");
-		System.out.println("哈哈哈哈");
-		System.out.println("呵呵哈哈哈");
+		System.out.println("闅忎究鎵撶殑");
 	}
 }
